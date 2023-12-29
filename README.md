@@ -5,7 +5,7 @@ Welcome to my repository! This project leverages the power of machine learning, 
 
 ## Demo
 
-https://user-images.githubusercontent.com/37156032/160282244-42f6bd8c-bfc8-47af-8973-d3d199140e44.mp4
+https://github.com/Dhruv110903/VisionX/assets/93207042/587583b4-1456-48bb-8962-28650dbfedc0
 
 ## :key: Features
 
