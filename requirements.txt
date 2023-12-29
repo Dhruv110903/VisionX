@@ -24,4 +24,4 @@ thop
 # Extras -----------
 streamlit
 psutil
-easydict
+
