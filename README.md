@@ -1,7 +1,7 @@
 <h1 align="center">VisionX</h1>
 
 ## About
-Welcome to my repository! This project leverages the power of machine learning, combining YOLOv5 and DeepSort, to enable real-time object detection through webcam, local video, and various streaming platforms. Our goal is to provide an intuitive and efficient solution for detecting objects accurately, making it accessible for diverse applications. Whether you're exploring computer vision or implementing object tracking in a specific domain, our tool aims to simplify the process and deliver reliable results. Dive in, explore, and contribute to this collaborative effort in advancing real-time object detection capabilities.
+Welcome ! This project leverages the power of machine learning, combining YOLOv5 and DeepSort, to enable real-time object detection through webcam, local video, and various streaming platforms. Our goal is to provide an intuitive and efficient solution for detecting objects accurately, making it accessible for diverse applications. Whether you're exploring computer vision or implementing object tracking in a specific domain, our tool aims to simplify the process and deliver reliable results with the convenience to choose the confidence, drift. Dive in, explore, and contribute to this collaborative effort in advancing real-time object detection capabilities.
 
 ## Demo
 
