@@ -1,9 +1,9 @@
 <h1 align="center">VisionX</h1>
 
-## :innocent: About
+## :About
 Welcome to my repository! This project leverages the power of machine learning, combining YOLOv5 and DeepSort, to enable real-time object detection through webcam, local video, and various streaming platforms. Our goal is to provide an intuitive and efficient solution for detecting objects accurately, making it accessible for diverse applications. Whether you're exploring computer vision or implementing object tracking in a specific domain, our tool aims to simplify the process and deliver reliable results. Dive in, explore, and contribute to this collaborative effort in advancing real-time object detection capabilities.
 
-## :framed_picture: Demo
+## : Demo
 
 https://user-images.githubusercontent.com/37156032/160282244-42f6bd8c-bfc8-47af-8973-d3d199140e44.mp4
 
@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/37156032/160282244-42f6bd8c-bfc8-47af-
     <li>Display minimum and maximum FPS recorded during inference</li>
 </ol> 
 
-## :dizzy: How to use?
+## How to use?
 <ol>
     <li>Clone this repository</li>
     <li>Install all the dependencies using the command pip install -r requirements.txt </li>
