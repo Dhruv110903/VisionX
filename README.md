@@ -30,7 +30,7 @@ https://github.com/Dhruv110903/VisionX/assets/93207042/3894bd58-56e8-4b21-9cf9-1
 <ol>
     <li>Clone this repository</li>
     <li>Install all the dependencies using the command pip install -r requirements.txt </li>
-    <li>Download deepsort using the google drive link<a href="[https://drive.google.com/drive/folders/18_LAtz1yz1yWnD3G4a3fG_NIDSXVQlUT?usp=sharing](https://drive.google.com/drive/folders/18_LAtz1yz1yWnD3G4a3fG_NIDSXVQlUT?usp=sharing)"> Checkpoint </a> file and paste both the files in deep_sort_pytorch/deep_sort/deep/checkpoint</li>
+    <li>Download deepsort using the google drive link -> https://drive.google.com/drive/folders/18_LAtz1yz1yWnD3G4a3fG_NIDSXVQlUT?usp=sharing> (Checkpoint) file and paste both the files in deep_sort_pytorch/deep_sort/deep/checkpoint</li>
     <li>Run the following command to run in LocalHost-> streamlit run app.py</li>
 </ol>
 
